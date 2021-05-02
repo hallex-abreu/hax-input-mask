@@ -23,4 +23,19 @@ import { cpfMask } from 'hax-input-mask';
 <input type="text" value={cpf} onChange={event => serCpf(cpfMask(event.target.value))}/>
 ```
 
+### Options parameters
+cpfMask
+ufMask
+cepMask
+dataMask
+telefoneMask
+dataMask
+horaMask
+converte_data_hora
+converte_data
+converte_hora
+converte_data_envio
+soNumeroMask
+convert_real
+
 Help us maintain the project: [donate](https://mpago.la/1zCdgRN).
