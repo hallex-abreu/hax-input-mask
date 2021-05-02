@@ -106,7 +106,7 @@ function convert_real(numero) {
   return formCurrency.format(moeda)
 }
 
-module.exports = {
+export default {
   cpfMask,
   ufMask,
   cepMask,

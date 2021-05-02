@@ -18,7 +18,7 @@ npm i hax-input-mask
 Use within the setValue of input
 
 ```js
-const { cpfMask } = require('hax-input-mask')
+import { cpfMask } from 'hax-input-mask';
 
 <input type="text" value={cpf} onChange={event => serCpf(cpfMask(event.target.value))}/>
 ```
