@@ -1,0 +1,20 @@
+{
+  "name": "input-mask-validation",
+  "description": "Pacote para mascaras e conversões",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hallex-abreu/input-mask-validation.git"
+  },
+  "keywords": ["mask", "input-mask"],
+  "author": "Hallex Abreu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hallex-abreu/input-mask-validation/issues"
+  },
+  "homepage": "https://github.com/hallex-abreu/input-mask-validation#readme"
+}
